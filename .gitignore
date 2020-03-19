@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+
+.vscode
+
+.venv
+
+src/__pycache__
+ *.pyc
