@@ -64,5 +64,5 @@ class BasicDecoder(torch.nn.Module):
 
     def forward(self, x):
         h = torch.nn.functional.relu(self.h1(x))
-        output = torch.nn.functional.sigmoid(self.out(h))
+        output = torch.sigmoid(self.out(h))
         return output
