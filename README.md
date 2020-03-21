@@ -1,5 +1,5 @@
 # Variational AutoEncoders (VAE)
-The current repository contains a **minimal implementation of a VAE**. The original
+This repository contains a **minimal implementation of a VAE**. The original
 formulation has been used, without any modification.
 
 ## Results
